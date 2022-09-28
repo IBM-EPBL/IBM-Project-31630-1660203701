@@ -1,0 +1,3 @@
+[console_scripts]
+dv = develop.__main__:main
+
