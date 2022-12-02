@@ -1,0 +1,7 @@
+o
+    öUc-  ã                   @   sT   d dl mZmZ eeƒZdejd< e d¡dd„ ƒZedkr(ejdd	d
+d dS dS )é    )ÚFlaskÚrender_templateZ0df0331cefc6c2b9a5d0208a726a5d1c0fd37324feba25506Ú
+SECRET_KEYú/c                   C   s   t dƒS )Nz
+index.html)r   © r   r   úsC:\Users\BALAJI\OneDrive\Documents\ibm assignment 2\Assignment - 1 ( Gayathiri R )\assignment 4\Assignment 4\app.pyÚindex   s   r   Ú__main__z0.0.0.0iˆ  T)ÚhostÚportÚdebugN)	Úflaskr   r   Ú__name__ÚappÚconfigÚrouter   Úrunr   r   r   r   Ú<module>   s    
+
+ÿ
